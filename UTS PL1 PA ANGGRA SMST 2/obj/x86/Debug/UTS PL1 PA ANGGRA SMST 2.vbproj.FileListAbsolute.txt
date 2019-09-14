@@ -1,0 +1,99 @@
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.ResolveComReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainForm.resources
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+C:\Users\User\AppData\Local\Temporary Projects\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.ResolveComReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainForm.resources
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.loginForm.resources
+C:\Users\User\documents\visual studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.LoginConfirm.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainConfirm.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangForm.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangAdd.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KaryawanForm.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormUser.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormHistoy.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormBarangMasuk.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.History.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KasirFrom.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\Interop.ADODB.dll
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.ResolveComReference.cache
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangAdd.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangForm.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormHistoy.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KaryawanForm.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormUser.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormBarangMasuk.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.History.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KasirFrom.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainConfirm.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.LoginConfirm.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.loginForm.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainForm.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.Resources.resources
+E:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.GenerateResource.Cache
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\Interop.ADODB.dll
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.ResolveComReference.cache
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangAdd.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangForm.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormHistoy.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KaryawanForm.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormUser.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormBarangMasuk.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.History.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KasirFrom.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainConfirm.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.LoginConfirm.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.loginForm.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainForm.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.Resources.resources
+G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.GenerateResource.Cache
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.ResolveComReference.cache
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.exe
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.pdb
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\bin\Debug\UTS PL1 PA ANGGRA SMST 2.xml
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangAdd.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.BarangForm.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormHistoy.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KaryawanForm.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormUser.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.FormBarangMasuk.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.History.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.KasirFrom.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainConfirm.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.LoginConfirm.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.loginForm.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainForm.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.Resources.resources
+C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.GenerateResource.Cache
