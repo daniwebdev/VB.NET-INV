@@ -12,7 +12,6 @@ Module AutoLoad
     Public result As SqlDataReader
 
     Dim dataUser As String
-
     Public Sub _DB(ByVal type As String)
         Try
             If type = "open" Then

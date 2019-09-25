@@ -31,6 +31,7 @@ Partial Class LoginConfirm
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.confLable = New System.Windows.Forms.Label()
+        Me.type = New System.Windows.Forms.TextBox()
         Me.hPanel.SuspendLayout()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
@@ -127,12 +128,21 @@ Partial Class LoginConfirm
         Me.confLable.Text = "Label1"
         Me.confLable.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'type
+        '
+        Me.type.Location = New System.Drawing.Point(13, 52)
+        Me.type.Name = "type"
+        Me.type.Size = New System.Drawing.Size(100, 20)
+        Me.type.TabIndex = 3
+        Me.type.Visible = False
+        '
         'LoginConfirm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(317, 189)
+        Me.Controls.Add(Me.type)
         Me.Controls.Add(Me.confLable)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.hPanel)
@@ -143,6 +153,7 @@ Partial Class LoginConfirm
         Me.hPanel.ResumeLayout(False)
         Me.Panel1.ResumeLayout(False)
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents hPanel As System.Windows.Forms.Panel
@@ -154,4 +165,5 @@ Partial Class LoginConfirm
     Friend WithEvents Panel1 As System.Windows.Forms.Panel
     Friend WithEvents Button6 As System.Windows.Forms.Button
     Friend WithEvents confLable As System.Windows.Forms.Label
+    Friend WithEvents type As System.Windows.Forms.TextBox
 End Class

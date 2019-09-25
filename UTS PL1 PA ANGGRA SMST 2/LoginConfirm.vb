@@ -30,7 +30,9 @@
         loginForm.Enabled = True
     End Sub
 
-    Private Sub confLable_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles confLable.Click
-
+    Private Sub LoginConfirm_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        If type.Text = "error" Then
+            hPanel.BackColor = Color.FromArgb(231, 76, 60)
+        End If
     End Sub
 End Class

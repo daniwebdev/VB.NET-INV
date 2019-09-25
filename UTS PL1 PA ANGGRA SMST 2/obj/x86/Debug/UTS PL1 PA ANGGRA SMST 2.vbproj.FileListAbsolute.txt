@@ -75,7 +75,6 @@ G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_
 G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.MainForm.resources
 G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS_PL1_PA_ANGGRA_SMST_2.Resources.resources
 G:\Projects\UTS PL1 PA ANGGRA SMST 2\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.GenerateResource.Cache
-C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\Interop.ADODB.dll
 C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.vbproj.ResolveComReference.cache
 C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.exe
 C:\Users\PROGRAMER 1\Documents\Visual Studio 2010\Projects\UASDB\UTS PL1 PA ANGGRA SMST 2\obj\x86\Debug\UTS PL1 PA ANGGRA SMST 2.xml

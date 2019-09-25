@@ -61,4 +61,8 @@
         tIdBarang.Clear()
         tQty.Clear()
     End Sub
+
+    Private Sub pAdd_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles pAdd.Paint
+
+    End Sub
 End Class

@@ -17,6 +17,13 @@
         username = tUsername.Text
         password = tPassword.Text
 
+        If username = "" Or password = "" Then
+            LoginConfirm.type.Text = "error"
+            LoginConfirm.Show()
+            LoginConfirm.confLable.Text = "Username Kosong"
+            LoginConfirm.TopMost = True
+        End If
+
         Try
             sql.Connection = connect
             sql.CommandText = "SELECT [user].*, [karyawan].*, [hak_akses].* FROM [user]" _
@@ -25,7 +32,6 @@
                 & "WHERE [user].username = '" & username & "' AND [user].password = '" & password & "'"
             sql.Connection.Open()
             result = sql.ExecuteReader
-
             If result.Read Then
                 hak_akses = result!hak_akses
                 full_name = result!nama_lengkap
@@ -64,12 +70,13 @@
                 Else
                     MsgBox("Gagal")
                 End If
+            Else
 
             End If
         Catch ex As Exception
             MsgBox("Can not open connection ! " & ex.ToString())
         End Try
-
+        sql.Connection.Close()
     End Sub
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
